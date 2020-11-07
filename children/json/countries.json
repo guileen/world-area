@@ -259,6 +259,17 @@
             "code": "BGD",
             "name": "Bangladesh",
             "full_name": "People's Republic of Bangladesh",
+            "cname": "孟加拉",
+            "full_cname": "孟加拉人民共和国",
+            "lower_name": "people's republic of bangladesh",
+            "remark": "孟加拉族是南亚次大陆古老民族之一。孟加拉地区的最早居民是亚澳人。1757年，孟加拉国沦为英属印度的一个省，1947年印巴分治后，归属巴基斯坦，被称为东巴基斯坦。1971年，脱离巴基斯坦而独立。"
+        },
+        {
+            "id": "24",
+            "continent_id": "1",
+            "code": "BGD",
+            "name": "Bangladesh",
+            "full_name": "People's Republic of Bangladesh",
             "cname": "孟加拉国",
             "full_cname": "孟加拉人民共和国",
             "lower_name": "people's republic of bangladesh",
@@ -1667,7 +1678,7 @@
             "code": "MYT",
             "name": "Mayotte",
             "full_name": "Territorial Collectivity of Mayotte",
-            "cname": "马约特岛",
+            "cname": "马约特",
             "full_cname": "马约特岛",
             "lower_name": "territorial collectivity of mayotte",
             "remark": "马约特岛（Mayotte ）曾经为法国的一个集体领地，全称为马约特集体领地(Territorial Collectivity of Mayotte, 法语作Collectivite Territoriale de Mayotte)，亦称马奥霍(Mahore)，现为法国的一个海外大区（海外省）。位于莫桑比克海峡，与大科摩罗岛、昂儒昂岛、莫埃利岛共同组成科摩罗群岛。面积为374平方公里，居民约18万人，经济以农业为主，主要生产香子兰等香料，是法国的海外领地之一，马约特岛包括大陆地岛、小陆地岛以及周围一些小岛，首府和最大城市马穆楚。岛屿也被临近的东非印度洋岛国科摩罗宣称所有，但由法国实际控制。"
@@ -2008,7 +2019,7 @@
             "code": "RUS",
             "name": "Russia",
             "full_name": "Russian Federation",
-            "cname": "俄罗斯联邦",
+            "cname": "俄罗斯",
             "full_cname": "俄罗斯联邦",
             "lower_name": "russian federation",
             "remark": "俄罗斯联邦（俄语：Российская Федерация，英语：The Russian Federation），通称俄罗斯（俄国为俄罗斯帝国的简称），是由22个自治共和国、46个州、9个边疆区、4个自治区、1个自治州、3个联邦直辖市组成的联邦共和立宪制国家。[1]  国旗为白、蓝、红三色旗。国徽主体为双头鹰图案。俄罗斯位于欧亚大陆北部，地跨欧亚两大洲，国土面积为1707.54万平方公里，是世界上面积最大的国家。"
@@ -2041,7 +2052,18 @@
             "code": "SCG",
             "name": "",
             "full_name": "",
-            "cname": "塞尔维亚,黑山",
+            "cname": "黑山",
+            "full_cname": "塞尔维亚,黑山",
+            "lower_name": "",
+            "remark": ""
+        },
+        {
+            "id": "186",
+            "continent_id": "",
+            "code": "SCG",
+            "name": "",
+            "full_name": "",
+            "cname": "塞尔维亚",
             "full_cname": "塞尔维亚,黑山",
             "lower_name": "",
             "remark": ""
@@ -2580,7 +2602,7 @@
             "code": "WLF",
             "name": "",
             "full_name": "",
-            "cname": "瓦利斯和福图纳",
+            "cname": "瓦利斯和富图纳群岛",
             "full_cname": "瓦利斯和福图纳",
             "lower_name": "",
             "remark": ""

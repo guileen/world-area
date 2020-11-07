@@ -7,9 +7,27 @@
             "lower_name": "asia"
         },
         {
+            "id": "1",
+            "name": "Asia",
+            "cname": "亚太地区",
+            "lower_name": "asia"
+        },
+        {
             "id": "2",
             "name": "Europe",
             "cname": "欧洲",
+            "lower_name": "europe"
+        },
+        {
+            "id": "2",
+            "name": "Europe",
+            "cname": "欧盟",
+            "lower_name": "europe"
+        },
+        {
+            "id": "2",
+            "name": "Europe",
+            "cname": "欧美地区",
             "lower_name": "europe"
         },
         {
@@ -33,7 +51,7 @@
         {
             "id": "6",
             "name": "North America",
-            "cname": "北美洲",
+            "cname": "北美",
             "lower_name": "north america"
         },
         {

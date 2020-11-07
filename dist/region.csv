@@ -1,10 +1,13 @@
 LEVEL,code,name,full_name,cname,full_cname,lower_cname
 1,1,Asia,,亚洲,,asia
+1,1,Asia,,亚太地区,,asia
 1,2,Europe,,欧洲,,europe
+1,2,Europe,,欧盟,,europe
+1,2,Europe,,欧美地区,,europe
 1,3,Africa,,非洲,,africa
 1,4,Oceania,,大洋洲,,oceania
 1,5,Antarctica,,南极洲,,antarctica
-1,6,North America,,北美洲,,north america
+1,6,North America,,北美,,north america
 1,7,South America,,南美洲,,south america
 2,0AIA,,,安圭拉,安圭拉,
 2,0ALA,,,奥兰群岛,奥兰群岛,
@@ -30,7 +33,8 @@ LEVEL,code,name,full_name,cname,full_cname,lower_cname
 2,0NFK,,,诺福克,诺福克,
 2,0NIU,,,纽埃,纽埃,
 2,0PCN,,,皮特凯恩,皮特凯恩,
-2,0SCG,,,"塞尔维亚,黑山","塞尔维亚,黑山",
+2,0SCG,,,黑山,"塞尔维亚,黑山",
+2,0SCG,,,塞尔维亚,"塞尔维亚,黑山",
 2,0SGS,,,南乔治亚和南桑德威奇群岛,南乔治亚和南桑德威奇群岛,
 2,0SHN,,,圣赫勒拿,圣赫勒拿,
 2,0SJM,,,斯瓦尔巴和扬马廷,斯瓦尔巴和扬马廷,
@@ -40,9 +44,10 @@ LEVEL,code,name,full_name,cname,full_cname,lower_cname
 2,0UMI,,,美属外岛,美属外岛,
 2,0VGB,,,维尔京群岛，英属,维尔京群岛，英属,
 2,0VIR,,,维尔京群岛，美属,维尔京群岛，美属,
-2,0WLF,,,瓦利斯和福图纳,瓦利斯和福图纳,
+2,0WLF,,,瓦利斯和富图纳群岛,瓦利斯和福图纳,
 2,1AFG,Afghanistan,the Islamic Republic of Afghanistan,阿富汗,阿富汗斯坦伊斯兰共和国,the islamic republic of afghanistan
 2,1ARE,United Arab Emirates,The United Arab Emirates,阿联酋,阿拉伯联合酋长国,the united arab emirates
+2,1BGD,Bangladesh,People's Republic of Bangladesh,孟加拉,孟加拉人民共和国,people's republic of bangladesh
 2,1BGD,Bangladesh,People's Republic of Bangladesh,孟加拉国,孟加拉人民共和国,people's republic of bangladesh
 2,1BHR,Bahrian,The Kingdom of Bahrain,巴林,巴林王国,the kingdom of bahrain
 2,1BRN,Brunei,Brunei Darussalam,文莱,文莱达鲁萨兰国,brunei darussalam
@@ -125,7 +130,7 @@ LEVEL,code,name,full_name,cname,full_cname,lower_cname
 2,2POL,Poland,The Republic of Poland,波兰,波兰共和国,the republic of poland
 2,2PRT,Portugal,"Portugal,the Portuguese Republic",葡萄牙,葡萄牙共和国,"portugal,the portuguese republic"
 2,2ROU,Romania,Romania,罗马尼亚,罗马尼亚,romania
-2,2RUS,Russia,Russian Federation,俄罗斯联邦,俄罗斯联邦,russian federation
+2,2RUS,Russia,Russian Federation,俄罗斯,俄罗斯联邦,russian federation
 2,2SMR,San Marino,The Republic of San Marino,圣马力诺,圣马力诺共和国,the republic of san marino
 2,2SVK,Slovak,The Slovak Republic,斯洛伐克,斯洛伐克共和国,the slovak republic
 2,2SVN,Slovenia,The Republic of Slovenia,斯洛文尼亚,斯洛文尼亚共和国,the republic of slovenia
@@ -165,7 +170,7 @@ LEVEL,code,name,full_name,cname,full_cname,lower_cname
 2,3MRT,Mauritania,The Islamic Republic of Mauritania,毛里塔尼亚,毛里塔尼亚伊斯兰共和国,the islamic republic of mauritania
 2,3MUS,Mauritius,the Republic of Mauritius,毛里求斯,毛里求斯共和国,the republic of mauritius
 2,3MWI,Malawi,The Republic of Malawi,马拉维,马拉维共和国,the republic of malawi
-2,3MYT,Mayotte,Territorial Collectivity of Mayotte,马约特岛,马约特岛,territorial collectivity of mayotte
+2,3MYT,Mayotte,Territorial Collectivity of Mayotte,马约特,马约特岛,territorial collectivity of mayotte
 2,3NAM,Namibia,The Republic of Namibia,纳米比亚,纳米比亚共和国,the republic of namibia
 2,3NER,Niger,The Republic of Niger,尼日尔,尼日尔共和国,the republic of niger
 2,3NGA,Nigeria,Federal Republic of Nigeria,尼日利亚,尼日利亚联邦共和国,federal republic of nigeria
@@ -258,7 +263,7 @@ LEVEL,code,name,full_name,cname,full_cname,lower_cname
 3,1CHN014,Shanxi,,山西,,shanxi
 3,1CHN015,Inner Mongolia,,内蒙古,,inner mongolia
 3,1CHN021,Liaoning,,辽宁,,liaoning
-3,1CHN022,Jilin,,吉林,,jilin
+3,1CHN022,Jilin,,吉林省,,jilin
 3,1CHN023,Heilongjiang,,黑龙江,,heilongjiang
 3,1CHN031,Shanghai,,上海,,shanghai
 3,1CHN032,Jiangsu,,江苏,,jiangsu
@@ -267,12 +272,12 @@ LEVEL,code,name,full_name,cname,full_cname,lower_cname
 3,1CHN035,Fujian,,福建,,fujian
 3,1CHN036,Jiangxi,,江西,,jiangxi
 3,1CHN037,Shandong,,山东,,shandong
-3,1CHN041,Henan,,河南,,henan
+3,1CHN041,Henan,,河南省,,henan
 3,1CHN042,Hubei,,湖北,,hubei
 3,1CHN043,Hunan,,湖南,,hunan
 3,1CHN044,Guangdong,,广东,,guangdong
 3,1CHN045,Guangxi,,广西,,guangxi
-3,1CHN046,Hainan,,海南,,hainan
+3,1CHN046,Hainan,,海南省,,hainan
 3,1CHN050,Chongqing,,重庆,,chongqing
 3,1CHN051,Sichuan,,四川,,sichuan
 3,1CHN052,Guizhou,,贵州,,guizhou

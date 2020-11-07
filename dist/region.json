@@ -9,9 +9,30 @@
     },
     {
       "level": 1,
+      "code": "1",
+      "name": "Asia",
+      "cname": "亚太地区",
+      "lower_name": "asia"
+    },
+    {
+      "level": 1,
       "code": "2",
       "name": "Europe",
       "cname": "欧洲",
+      "lower_name": "europe"
+    },
+    {
+      "level": 1,
+      "code": "2",
+      "name": "Europe",
+      "cname": "欧盟",
+      "lower_name": "europe"
+    },
+    {
+      "level": 1,
+      "code": "2",
+      "name": "Europe",
+      "cname": "欧美地区",
       "lower_name": "europe"
     },
     {
@@ -39,7 +60,7 @@
       "level": 1,
       "code": "6",
       "name": "North America",
-      "cname": "北美洲",
+      "cname": "北美",
       "lower_name": "north america"
     },
     {
@@ -270,7 +291,16 @@
       "code": "0SCG",
       "name": "",
       "full_name": "",
-      "cname": "塞尔维亚,黑山",
+      "cname": "黑山",
+      "full_cname": "塞尔维亚,黑山",
+      "lower_name": ""
+    },
+    {
+      "level": 2,
+      "code": "0SCG",
+      "name": "",
+      "full_name": "",
+      "cname": "塞尔维亚",
       "full_cname": "塞尔维亚,黑山",
       "lower_name": ""
     },
@@ -360,7 +390,7 @@
       "code": "0WLF",
       "name": "",
       "full_name": "",
-      "cname": "瓦利斯和福图纳",
+      "cname": "瓦利斯和富图纳群岛",
       "full_cname": "瓦利斯和福图纳",
       "lower_name": ""
     },
@@ -381,6 +411,15 @@
       "cname": "阿联酋",
       "full_cname": "阿拉伯联合酋长国",
       "lower_name": "the united arab emirates"
+    },
+    {
+      "level": 2,
+      "code": "1BGD",
+      "name": "Bangladesh",
+      "full_name": "People's Republic of Bangladesh",
+      "cname": "孟加拉",
+      "full_cname": "孟加拉人民共和国",
+      "lower_name": "people's republic of bangladesh"
     },
     {
       "level": 2,
@@ -1125,7 +1164,7 @@
       "code": "2RUS",
       "name": "Russia",
       "full_name": "Russian Federation",
-      "cname": "俄罗斯联邦",
+      "cname": "俄罗斯",
       "full_cname": "俄罗斯联邦",
       "lower_name": "russian federation"
     },
@@ -1485,7 +1524,7 @@
       "code": "3MYT",
       "name": "Mayotte",
       "full_name": "Territorial Collectivity of Mayotte",
-      "cname": "马约特岛",
+      "cname": "马约特",
       "full_cname": "马约特岛",
       "lower_name": "territorial collectivity of mayotte"
     },
@@ -2297,7 +2336,7 @@
       "level": 3,
       "code": "1CHN022",
       "name": "Jilin",
-      "cname": "吉林",
+      "cname": "吉林省",
       "lower_name": "jilin"
     },
     {
@@ -2360,7 +2399,7 @@
       "level": 3,
       "code": "1CHN041",
       "name": "Henan",
-      "cname": "河南",
+      "cname": "河南省",
       "lower_name": "henan"
     },
     {
@@ -2395,7 +2434,7 @@
       "level": 3,
       "code": "1CHN046",
       "name": "Hainan",
-      "cname": "海南",
+      "cname": "海南省",
       "lower_name": "hainan"
     },
     {
