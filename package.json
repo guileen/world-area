@@ -1,0 +1,22 @@
+{
+  "name": "world-area",
+  "version": "1.0.0",
+  "description": "#### 提供sql，csv，json格式数据下载，world_area.sql为总的sql文件",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guileen/world-area.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guileen/world-area/issues"
+  },
+  "homepage": "https://github.com/guileen/world-area#readme",
+  "dependencies": {
+    "csv-writer": "^1.6.0"
+  }
+}
